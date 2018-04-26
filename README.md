@@ -10,7 +10,10 @@ main(arg) gets a list of three elements as a arg: the socket on which it operate
 See examples in plugins/ for a better understanding.
 
 
-Usage: 	@mariobot !load plugin_name
+Usage:	
+
+	@mariobot !load plugin_name
+
 	@mariobot !command
 
 	@mariobot !unload plugin_name
